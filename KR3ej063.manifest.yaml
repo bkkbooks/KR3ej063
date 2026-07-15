@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ej063/v1
 canonical_location: https://kanripo.org/bkk/KR3ej063/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 痘治理辨
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej063_000.yaml, hash: 'sha256:a09a0df211ba9133cac235cbb502a6a1b1d6686505600c6152fdaec57be923d5'}
+  - {seq: 0, filename: KR3ej063_000.yaml, hash: 'sha256:189a9473c81b15ca14b1ce7b035ef2a6da80f1b244f93eb8bb9c196b20ee0c23'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej063_000.markers.yaml, hash: 'sha256:e308cf86adcb8cc6a511f074c7cc74b2c73fd27abaad153489a343b90405b185'}
+  - {seq: 0, role: markers, filename: assets/KR3ej063_000.markers.yaml, hash: 'sha256:7a11610d133da966f2e5e744360ff5442a601fe0950ef5e6609af3dc4fd88e82'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1051,4 +1051,7 @@ table_of_contents:
   label: 痘治附方
   type: section
   level: 1
-hash: sha256:1b1ec9f02aa717ee8b28c600169f3dd6a0503271cd7b3d7aedb6b078dffac9f7
+hash: sha256:3e8db37443a89202989cfdc143d7a90d6082f9b503f30068534175cbad4a4683
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
