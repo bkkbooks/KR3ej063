@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ej063_000.yaml, hash: 'sha256:189a9473c81b15ca14b1ce7b035ef2a6da80f1b244f93eb8bb9c196b20ee0c23'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej063_000.markers.yaml, hash: 'sha256:7a11610d133da966f2e5e744360ff5442a601fe0950ef5e6609af3dc4fd88e82'}
+  - {seq: 0, role: markers, filename: assets/KR3ej063_000.markers.yaml, hash: 'sha256:26abc4c174c1578f632bc1a0ee2ad8d96c27efa6965016ec58af0eb7c2a846bd'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1051,7 +1051,7 @@ table_of_contents:
   label: 痘治附方
   type: section
   level: 1
-hash: sha256:3e8db37443a89202989cfdc143d7a90d6082f9b503f30068534175cbad4a4683
+hash: sha256:6a4c73a555d36dd6372dca8e38ef54587aa334be3c4b547f7f182a92a53b0cf6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
